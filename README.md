@@ -1,5 +1,4 @@
-# 3-Day_7DaysOfCode
-Exercicio do terceiro dia do #7DaysOfCode - Javascript
+# Exercicio dia 3 do 7DaysOfCode - Javascrypt
 
 > Status do projeto: Finalizado
 
@@ -7,17 +6,14 @@ Resolução do dia 3 do 7DaysOfCode - Javascrypt pela Alura pelo aluno Giovani F
 
 ## Exercicio proposto
 
-1. Se quer seguir para área de Front-End ou seguir para a área de Back-End.
-
-2. Caso esteja na área de Front-End, se quer aprender React ou aprender Vue. Caso esteja na área de Back-End, poderá aprender C# ou aprender Java.
-
-3. Depois, independente das escolhas anteriores, o usuário poderá escolher entre seguir se especializando na área escolhida ou seguir se desenvolvendo para se tornar Fullstack. Você deve exibir na tela uma mensagem específica para cada escolha.
-
-4. Por fim, pergunte quais são as tecnologias nas quais a pessoa gostaria de se especializar ou de conhecer. Aqui, a pessoa pode responder N tecnologias, uma de cada vez. Então, enquanto ela continuar respondendo ok para a pergunta: "Tem mais alguma tecnologia que você gostaria de aprender?", continue apresentando para ela o Prompt, para que ela complete o nome da tecnologia em questão. E, logo depois, apresente uma mensagem comentando algo sobre a linguagem inserida.
+Criar um jogo utilizando javascrypt que possibilita o usuario escolher o caminho o qual ele quer seguir, influenciando o fluxo do jogo.
 
 ## Resolução
 
 Por ser de livre customização, aproveitei para exercitar mais uma vez meus conhecimentos em HTML/CSS, escolhi fazer um jogo de escolha através de dois botões(Um azul e outro vermelho).
+
+![Imagem do projeto](https://uploaddeimagens.com.br/images/004/303/273/full/imagem_2023-01-18_141521020.png?1674062123)
+
 Passo a Passo:
 
 1. Utilizando buttons e a tag de border-radius criei dois botões circulares, utilizando o Hover e o Active ~~e algumas pesquisas na internet~~, os botões, vermelho e azul, ficaram prontos para uso com animação e sombreamento.
